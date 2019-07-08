@@ -1,2 +1,4 @@
 # Seam_Carving
-Seam Carving for Content-Aware Image Resizing. Implemented in MATLAB
+Seam Carving for Content-Aware Image Resizing. Implemented in MATLAB. 
+
+Reference: https://perso.crans.org/frenoy/matlab2012/seamcarving.pdf
